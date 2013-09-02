@@ -1,0 +1,21 @@
+{
+  "name": "MobileApp",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-haml": "~0.4.0",
+    "grunt-contrib-coffee": "~0.6.6",
+    "grunt-contrib-sass": "~0.3.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-copy": "~0.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
